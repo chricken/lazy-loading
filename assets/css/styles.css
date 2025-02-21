@@ -13,6 +13,11 @@ header {
     padding: 20px;
 }
 
+section img {
+    position: relative;
+    height: 200px;
+}
+
 h1 {
     font-size: 3em;
 }
